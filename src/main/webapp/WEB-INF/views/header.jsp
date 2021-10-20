@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Delhi height</a>
+                                            <a href="#">Delhi Heights</a>
                                         </li>
                                     </ul>
                                 </li>
