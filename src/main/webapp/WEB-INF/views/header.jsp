@@ -58,6 +58,9 @@
                                          <li>
                                             <a href="#">Mumbai city</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Banglore city</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
