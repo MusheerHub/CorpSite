@@ -53,22 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Delhi Heights</a>
-                                        </li>
-                                         <li>
-                                            <a href="#">Mumbai city</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Chennai city</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Silicon valley</a>
-                                        </li>
-                                         <li>
-                                            <a href="#">United state</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">United Kingdom</a>
+                                            <a href="#">Pune City</a>
                                         </li>
                                     </ul>
                                 </li>
