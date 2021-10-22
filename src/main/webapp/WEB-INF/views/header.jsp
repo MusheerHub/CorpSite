@@ -56,7 +56,7 @@
                                             <a href="#">Pune City</a>
                                         </li>
                                         <li>
-                                            <a href="#">Mumbai City</a>
+                                            <a href="#">Delhi</a>
                                         </li>
                                     </ul>
                                 </li>
