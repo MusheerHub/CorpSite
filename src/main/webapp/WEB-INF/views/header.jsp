@@ -61,6 +61,9 @@
                                         <li>
                                             <a href="#">Chennai city</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Silicon valley</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
