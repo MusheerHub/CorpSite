@@ -58,9 +58,6 @@
                                          <li>
                                             <a href="#">Delhi</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Los Angeles</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>
