@@ -59,7 +59,7 @@
                                             <a href="#">Delhi Heights</a>
                                         </li>
                                         <li>
-                                            <a href="#">Delhi </a>
+                                            <a href="#">Cyber city</a>
                                         </li>
                                     </ul>
                                 </li>
