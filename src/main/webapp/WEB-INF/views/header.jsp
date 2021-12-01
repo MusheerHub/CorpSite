@@ -58,9 +58,7 @@
                                          <li>
                                             <a href="#">Delhi Heights</a>
                                         </li>
-                                        <li>
-                                            <a href="#">New York</a>
-                                        </li>
+                                  
                                     </ul>
                                 </li>
                             </ul>
