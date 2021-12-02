@@ -58,8 +58,8 @@
                                          <li>
                                             <a href="#">Delhi Heights</a>
                                         </li>
-                                   <li>
-                                            <a href="#">Cyber City</a>
+                                        <li>
+                                            <a href="#">Los Angeles</a>
                                         </li>
                                     </ul>
                                 </li>
