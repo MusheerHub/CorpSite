@@ -56,11 +56,9 @@
                                             <a href="#">Mumbai city</a>
                                         </li>
                                          <li>
-                                            <a href="#">Delhi Heights</a>
+                                            <a href="#">Delhi</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Los Angeles</a>
-                                        </li>
+                                        
                                     </ul>
                                 </li>
                             </ul>
