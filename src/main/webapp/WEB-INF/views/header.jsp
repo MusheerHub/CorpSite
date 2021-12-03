@@ -56,7 +56,7 @@
                                             <a href="#">Mumbai city</a>
                                         </li>
                                          <li>
-                                            <a href="#">Amritsar</a>
+                                            <a href="#">Jaipur</a>
                                         </li>
                                     </ul>
                                 </li>
